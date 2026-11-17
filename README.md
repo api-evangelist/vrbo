@@ -89,28 +89,29 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://vrbo.com/)
 - [Security](https://www.expediagroup.com/about/privacy-data-handling-requirements/)
+- [GitHub](https://github.com/vrbo)
 
 ## API Evangelist rating
 
-**Kin Score 4.5** — minimal · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 4.2** — minimal · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
-| Discoverability | 37.5 |
+| Discoverability | 26.8 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 9.5 |
+| Operational transparency | 15.8 |
 | Developer ergonomics | 0.0 |
 | Access clarity | 0.0 |
 
-**Agent readiness 0.0** — human-only
+**Agent readiness 3.1** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | — |
+| MCP Server | documented (partial credit) |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
